@@ -31,5 +31,10 @@ public class GroundScore : MonoBehaviour
             }
         }
         Total();
+        if(Score == 40)
+        {
+            Debug.Log("Yee");
+            SceneManager.LoadScene("Congrats");
+        }
     }
 }

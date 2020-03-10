@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\Scenes\scripts\ChangeSCene.cs" />
     <Compile Include="Assets\Scenes\scripts\Ground.cs" />
     <Compile Include="Assets\Scenes\scripts\GroundScore.cs" />
@@ -70,31 +71,31 @@
     <Compile Include="Assets\Scenes\scripts\Quit.cs" />
     <Compile Include="Assets\Scenes\scripts\Spawner.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Diego/OneDrive/Documenten/ma/bewijzenmap/periode1.2/dvt/opdracht3/GD1-GDTV-Resources/DIP opdracht 1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive/Documenten/GitHub/Shippable-Tower-Blocks/DIP opdracht 1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
